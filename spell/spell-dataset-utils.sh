@@ -1,5 +1,5 @@
 spell run -t K80 \
-    --pip-req ../requirements.txt \
+    --pip-req requirements.txt \
     "python ../utils/dataset-utils.py --help"
     # \
     #   --input_src \
