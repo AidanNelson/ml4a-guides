@@ -1,6 +1,6 @@
 spell run -t K80 \
     --pip-req requirements.txt \
-    "python ../utils/dataset-utils.py --help"
+    "python ../utils/dataset-utils.py"
     # \
     #   --input_src \
     #   --max_num_images 100 \
